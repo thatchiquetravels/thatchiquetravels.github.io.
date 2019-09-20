@@ -1,0 +1,45 @@
+body {
+	background-color: #441565;
+}
+
+h1 {
+	text-align: center;
+	color: #C0C92B;
+}
+
+h2 {
+	text-align: center;
+	color: #C0C92B;
+}
+
+h3 {
+	text-align: center;
+	color: #C0C92B;
+}
+
+pre {
+	text-align: center;
+	color: #C0C92B;
+}
+
+p {
+	text-align: center;
+	color: #C0C92B;
+}
+
+a:link {
+	color: #C0C92B;
+	text-decoration:none
+}
+
+a:visited {
+	color:#C0C92B;
+}
+
+a:hover {
+	color:#C0C92B;
+}
+
+a:active {
+	color:#C0C92B;
+}
