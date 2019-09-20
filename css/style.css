@@ -1,45 +1,45 @@
 body {
-	background-color: #441565;
+	background-color: #0D0D0B;
 }
 
 h1 {
 	text-align: center;
-	color: #C0C92B;
+	color: #E5E5DE;
 }
 
 h2 {
 	text-align: center;
-	color: #C0C92B;
+	color: #E5E5DE;
 }
 
 h3 {
 	text-align: center;
-	color: #C0C92B;
+	color: #E5E5DE;
 }
 
 pre {
 	text-align: center;
-	color: #C0C92B;
+	color: #E5E5DE;
 }
 
 p {
 	text-align: center;
-	color: #C0C92B;
+	color: #E5E5DE;
 }
 
 a:link {
-	color: #C0C92B;
+	color: #E5E5DE;
 	text-decoration:none
 }
 
 a:visited {
-	color:#C0C92B;
+	color:#E5E5DE;
 }
 
 a:hover {
-	color:#C0C92B;
+	color:#E5E5DE;
 }
 
 a:active {
-	color:#C0C92B;
+	color:#E5E5DE;
 }
